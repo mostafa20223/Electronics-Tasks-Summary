@@ -7,6 +7,7 @@
     * Mobile app
 
 ## Task2 Statement (Required)
+* Localization app for department floor
 
 ## Task3 Statement (Required)
 ### The setup
